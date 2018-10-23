@@ -14,5 +14,5 @@ s - save
 l - load
 p - pause
 
-A screenshot:img.png
+A screenshot:
 ![alt text](https://github.com/florian9600/tetris/blob/master/screenshot.png)
